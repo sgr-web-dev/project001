@@ -79,8 +79,7 @@ h1{
   transform: scale(0.96);
 }
 
-.color-generator-btn:hover,
-.color-generator-btn:focus{
+.color-generator-btn:hover {
   cursor: pointer;
   background-color: black;
   color: whitesmoke; 
